@@ -5,9 +5,9 @@ throw false
 }
 let pesan = args.join` `
 let oi = `📄 *MENSAJE:* ${pesan}`
-let teks = `╭━〔 *EY LES HABLAN ACA EL ÚNICO BOT SOY YO* 〕━⬣\n${oi}\n\n`
+let teks = `╭━〔 *ACTIVATE HABLAN* 〕━⬣\n${oi}\n\n`
 for (let mem of participants) {
-teks += `┃🥷⊹ @${mem.id.split('@')[0]}\n`}
+teks += `┃⚡⊹ @${mem.id.split('@')[0]}\n`}
 teks += `┃
 ╰━━━━━[ 𝗧𝗜𝗟𝗜𝗡 𝗕𝗢𝗧 ]━━━━━⬣`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )  
