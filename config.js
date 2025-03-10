@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
-global.author = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
+global.packname = "𝗜𝗡𝗧𝗜 𝗕𝗢𝗧"
+global.author = "𝗜𝗡𝗧𝗜 𝗕𝗢𝗧"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
+global.gt = "𝗜𝗡𝗧𝗜 𝗕𝗢𝗧"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,8 +157,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
-global.igfg = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
+global.wm = "𝗜𝗡𝗧𝗜 𝗕𝗢𝗧"
+global.igfg = "𝗜𝗡𝗧𝗜 𝗕𝗢𝗧"
 global.nomorown = "5218336105471"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
